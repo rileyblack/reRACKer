@@ -5,7 +5,6 @@ close all
 clear all
 clc
 
-
 %--------------------------------------------------------------------------
 %defining symbolic variables for derivation of dynamic equations
 %--------------------------------------------------------------------------
